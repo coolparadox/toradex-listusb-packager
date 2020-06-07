@@ -1,0 +1,15 @@
+Source: listusb
+Section: unknown
+Priority: optional
+Maintainer: Rafael Lorandi <coolparadox@gmail.com>
+Build-Depends: debhelper (>= 11)
+Standards-Version: 4.1.3
+Homepage: <insert the upstream URL, if relevant>
+#Vcs-Browser: https://salsa.debian.org/debian/listusb
+#Vcs-Git: https://salsa.debian.org/debian/listusb.git
+
+Package: listusb
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>

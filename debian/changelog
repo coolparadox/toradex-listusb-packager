@@ -1,0 +1,5 @@
+listusb (20200530-1) unstable; urgency=medium
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Rafael Lorandi <coolparadox@gmail.com>  Sun, 07 Jun 2020 21:43:33 +0000
