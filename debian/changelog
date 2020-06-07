@@ -1,5 +1,5 @@
-listusb (20200530-1) unstable; urgency=medium
+listusb (20200530) UNRELEASED; urgency=low
 
-  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+  * Initial release from commit d1112976
 
  -- Rafael Lorandi <coolparadox@gmail.com>  Sun, 07 Jun 2020 21:43:33 +0000
