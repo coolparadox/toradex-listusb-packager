@@ -2,7 +2,7 @@ Source: listusb
 Section: contrib/admin
 Priority: optional
 Maintainer: Rafael Lorandi <coolparadox@gmail.com>
-Build-Depends: debhelper (>= 11), libusb-1.0-dev, pkg-config
+Build-Depends: debhelper (>= 11), libusb-1.0-0-dev, pkg-config
 Standards-Version: 4.1.3
 Homepage: https://github.com/sergioprado/listusb/blob/6a722d3919eae5bab9a9e6db847fd22ea2e75aaa/README.md
 Vcs-Browser: https://github.com/sergioprado/listusb

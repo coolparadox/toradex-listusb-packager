@@ -13,6 +13,17 @@ export DH_VERBOSE = 1
 # package maintainers to append LDFLAGS
 #export DEB_LDFLAGS_MAINT_APPEND = -Wl,--as-needed
 
+clean:
+	$(RM) -f listusb
+
+build:
+	make
+
+install:
+	install -Dt debian/listusb/usr/bin listusb
+	install -Dt debian/listusb/usr/share/doc/listusb debian/copyright
+	install -Dt debian/listusb/usr/share/doc/listusb debian/changelog
+	gzip debian/listusb/usr/share/doc/listusb/changelog
 
 %:
 	dh $@
