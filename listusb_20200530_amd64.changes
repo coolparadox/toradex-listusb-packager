@@ -1,0 +1,34 @@
+Format: 1.8
+Date: Sun, 07 Jun 2020 21:43:33 +0000
+Source: listusb
+Binary: listusb listusb-dbgsym
+Architecture: source amd64
+Version: 20200530
+Distribution: UNRELEASED
+Urgency: low
+Maintainer: Rafael Lorandi <coolparadox@gmail.com>
+Changed-By: Rafael Lorandi <coolparadox@gmail.com>
+Description:
+ listusb    - listusb is an example application to list USB devices
+Changes:
+ listusb (20200530) UNRELEASED; urgency=low
+ .
+   * Initial release from commit d1112976
+Checksums-Sha1:
+ 6e6370400652bc319f7d6fb15f3740115f1c9add 766 listusb_20200530.dsc
+ c0010384aafa4e801c48b00e4bec33884f87d088 2392 listusb_20200530.tar.xz
+ edd844b350902c62b4f434ef4d441e7a91d34a5c 2376 listusb-dbgsym_20200530_amd64.deb
+ a239c2868a2a72da242d228d1a67667535df78a2 4727 listusb_20200530_amd64.buildinfo
+ b0357587baa881205d06ce56924b7c7fc66ed10d 4132 listusb_20200530_amd64.deb
+Checksums-Sha256:
+ 753a9a9c4608cd587c6e012df4396320a82a500ac35f126ee82f152d045f85f8 766 listusb_20200530.dsc
+ cccd91402ff9487a662a69810240e972265c365fc8b8a702e115b41f05296412 2392 listusb_20200530.tar.xz
+ a71a1b022d06a625f0b2ad3beca54bbfc869448dac877c5f2f0d00bd82802b5c 2376 listusb-dbgsym_20200530_amd64.deb
+ 72b97355119e0db218fe3ed9f6b461b2036b9d7e84242313aebb33a669fe14ad 4727 listusb_20200530_amd64.buildinfo
+ 3b58f7526928acfaee89b76799f00481b085c344a4ec74b256f402b5d9499500 4132 listusb_20200530_amd64.deb
+Files:
+ a6a989efaa709574ee6dbd2da49badc2 766 contrib/admin optional listusb_20200530.dsc
+ e71ac63824d4a8489247a37a73d265f7 2392 contrib/admin optional listusb_20200530.tar.xz
+ 06a258bdb957d13f86addcd4cc4b28b9 2376 contrib/debug optional listusb-dbgsym_20200530_amd64.deb
+ 40d9dae96975cfc2eda2918f8852476a 4727 contrib/admin optional listusb_20200530_amd64.buildinfo
+ c6803f1004f505ba6f7403b047153345 4132 contrib/admin optional listusb_20200530_amd64.deb

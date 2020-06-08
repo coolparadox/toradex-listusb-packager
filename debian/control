@@ -10,5 +10,5 @@ Vcs-Git: https://github.com/sergioprado/listusb.git
 
 Package: listusb
 Architecture: any
-Depends: ${shlibs:Depends}, ${misc:Depends}, libusb-1.0
+Depends: ${shlibs:Depends}, ${misc:Depends}, libusb-1.0-0
 Description: listusb is an example application to list USB devices
