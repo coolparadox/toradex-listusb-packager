@@ -12,8 +12,8 @@ Build-Depends: debhelper (>= 11), libusb-1.0-0-dev, pkg-config
 Package-List:
  listusb deb contrib/admin optional arch=any
 Checksums-Sha1:
- c0010384aafa4e801c48b00e4bec33884f87d088 2392 listusb_20200530.tar.xz
+ 571b8ed4a74c1cab14083436432277c063b6932c 2388 listusb_20200530.tar.xz
 Checksums-Sha256:
- cccd91402ff9487a662a69810240e972265c365fc8b8a702e115b41f05296412 2392 listusb_20200530.tar.xz
+ dcfc08041f39c9ea739209de6138c05187580027758edc5dfb2aa1aa8d8bc8c9 2388 listusb_20200530.tar.xz
 Files:
- e71ac63824d4a8489247a37a73d265f7 2392 listusb_20200530.tar.xz
+ 4ca35f8570c085d857470b2a4a52f43b 2388 listusb_20200530.tar.xz

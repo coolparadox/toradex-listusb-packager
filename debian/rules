@@ -17,7 +17,7 @@ clean:
 	$(RM) -f listusb
 
 build:
-	make
+	make CFLAGS='-g'
 
 install:
 	install -Dt debian/listusb/usr/bin listusb

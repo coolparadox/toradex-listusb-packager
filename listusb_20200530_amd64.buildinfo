@@ -4,20 +4,20 @@ Binary: listusb
 Architecture: amd64 source
 Version: 20200530
 Checksums-Md5:
- a6a989efaa709574ee6dbd2da49badc2 766 listusb_20200530.dsc
+ 44b86b9d6e781e7fa2d05f2f6413a424 766 listusb_20200530.dsc
  06a258bdb957d13f86addcd4cc4b28b9 2376 listusb-dbgsym_20200530_amd64.deb
- c6803f1004f505ba6f7403b047153345 4132 listusb_20200530_amd64.deb
+ e57c75087b604a41ac13626f96a41eb6 4136 listusb_20200530_amd64.deb
 Checksums-Sha1:
- 6e6370400652bc319f7d6fb15f3740115f1c9add 766 listusb_20200530.dsc
+ 1dbd4d12b30e9307ee10116dbbf47b232cbb98d5 766 listusb_20200530.dsc
  edd844b350902c62b4f434ef4d441e7a91d34a5c 2376 listusb-dbgsym_20200530_amd64.deb
- b0357587baa881205d06ce56924b7c7fc66ed10d 4132 listusb_20200530_amd64.deb
+ b005bcad8420355c85f5bc092d9be8af75f0050a 4136 listusb_20200530_amd64.deb
 Checksums-Sha256:
- 753a9a9c4608cd587c6e012df4396320a82a500ac35f126ee82f152d045f85f8 766 listusb_20200530.dsc
+ daeda41cde28db8a907dd1b93b7499cbfd1c0a938a5861d72d32da6ecdf42351 766 listusb_20200530.dsc
  a71a1b022d06a625f0b2ad3beca54bbfc869448dac877c5f2f0d00bd82802b5c 2376 listusb-dbgsym_20200530_amd64.deb
- 3b58f7526928acfaee89b76799f00481b085c344a4ec74b256f402b5d9499500 4132 listusb_20200530_amd64.deb
+ 902c3471555f3a9792df2db54720418551436d80af3acf96aa4f238887b75e0b 4136 listusb_20200530_amd64.deb
 Build-Origin: Debian
 Build-Architecture: amd64
-Build-Date: Mon, 08 Jun 2020 00:41:06 +0000
+Build-Date: Mon, 08 Jun 2020 14:30:32 +0000
 Installed-Build-Depends:
  autoconf (= 2.69-11),
  automake (= 1:1.16.1-4),
